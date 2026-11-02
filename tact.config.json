@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/tact-lang/tact/main/schemas/configSchema.json",
+  "projects": [
+    {
+      "name": "deathnote_payout",
+      "path": "./DeathNotePayout.tact",
+      "output": "./build",
+      "options": {
+        "debug": false,
+        "external": false
+      }
+    }
+  ]
+}
